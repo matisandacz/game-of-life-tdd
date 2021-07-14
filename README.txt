@@ -1,5 +1,2 @@
-How to run the project?
-
-On localhost, type npm start.
-
-To run tests with Jest, type npm test
+'npm start' run the project in your local machine.
+'npm test' to run tests with JEST.
